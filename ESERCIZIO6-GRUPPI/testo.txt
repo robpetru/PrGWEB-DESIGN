@@ -1,0 +1,31 @@
+Crea una galleria di immagini acquistabili.
+Ogni immagine compresa di prezzo, titolo e quantità disponibili dovrà essre inserita in una "card".
+
+Dare la possibilità all'utente di inserire una nuova immagine con le relative propr.
+
+ATT: le immagini devono essere dei link esterni 
+
+
+var immagini = [
+            {
+                percorso: "./....",
+                titolo: "",
+                alt: "",
+                prezzo:,
+                disponibili:,
+            },
+            {
+                percorso: "./....",
+                titolo: "Sport di gruppo",
+                alt: "Persone che giocano a pallavolo",
+                mostra: true
+            }
+        ]
+
+oggetto: fotografia
+img(percorso con il link)
+testo(-titolo
+        -prezzo)
+metodo disponibilità
+metodo acquista        
+
