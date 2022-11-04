@@ -1,0 +1,28 @@
+#galleriaImmagini{
+display: flex;
+justify-content: space-evenly;
+}
+.container{
+   margin-top: 90px;
+        border: 1px solid black;
+}
+
+
+img{
+          height: 200px;
+          width: 300px;
+}
+ h3,p{
+   margin-left: 60px;      
+}
+
+
+input{
+   width: 30px;
+   margin-left: 60px;      
+}
+button{
+         
+          margin-bottom: 19px;
+         margin-left: 150px;
+}      
